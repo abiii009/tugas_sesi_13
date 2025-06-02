@@ -23,6 +23,6 @@ Cara Menjalankan
 Clone repositori ini.
 Jalankan file main.py dengan Python 3.
 Ikuti menu navigasi untuk menggunakan aplikasi.
-Dibuat oleh:
+Dibuat oleh
 Januar raya abimanyu
 20240040231
