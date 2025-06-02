@@ -1,0 +1,14 @@
+[
+    {
+        "id": "PM001",
+        "nama": "JANUAR",
+        "jurusan": "TEKNIK INFORMATIKA",
+        "sudah_memilih": true
+    },
+    {
+        "id": "PM002",
+        "nama": "ADE",
+        "jurusan": "Manajemen",
+        "sudah_memilih": false
+    }
+]
